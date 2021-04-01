@@ -1,0 +1,6 @@
+OSI     TCP/UDP    7层协议  三次握手
+ip  规则、掩码。。。
+vip
+网卡
+防火墙(iptables & firewall
+容器网络：桥接

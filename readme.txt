@@ -8,5 +8,6 @@ git pull origin master
 
 
 ##if error
-#1  OpenSSL SSL_read: Connection was reset, errno 1005
+#fatal: unable to access 'https://github.com/GreyWang1/PaaS-notes.git/':
+#OpenSSL SSL_read: Connection was reset, errno 10054
 git config --global http.sslVerify "false"
